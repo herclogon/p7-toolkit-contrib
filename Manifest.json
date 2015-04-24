@@ -22,7 +22,7 @@
     "qooxdoo-versions": ["4.1", "3.5"],
 
     "download" : "https://github.com/herclogon/p7-toolkit/archive/master.zip",
-    "checksum" : "df2194830d65bd5e8989f5d7435f4a15"
+    "checksum" : "b0af9564284b5c3b2ce3fdb642102113"
   },
 
   "provides" :
